@@ -137,7 +137,7 @@ const TreasureBoxGame = () => {
         {/* Title */}
         <h1 className="text-6xl font-bold text-white mb-2 text-shadow-lg animate-pulse">
           <Crown className="inline-block mr-4 text-yellow-400" />
-          TREASURE BOX
+          STREAMER BOX
           <Crown className="inline-block ml-4 text-yellow-400" />
         </h1>
         <p className="text-lg text-gray-300 mb-6">powered by Pestilence</p>
